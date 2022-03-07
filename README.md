@@ -17,4 +17,4 @@
 # 3. What does sequence mean and which three types of data fall into this category?
      A sequence data type is a collection of objects ordered by a specific position. In Python, Strings, lists, and tuples are the data types 
      based on sequences. The Sequences share common sequence operations, such as indexing, concatenation, and slicing, but also have type-specific
-     method calls
+     method calls..
