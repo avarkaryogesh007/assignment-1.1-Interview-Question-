@@ -14,7 +14,24 @@
         
 # 2. What is an Interpreted language?
       An Interpreted language executes its statements line by line. Languages such as Python, Javascript, R, PHP, and Ruby are prime examples of           Interpreted languages. Programs written in an interpreted language runs directly from the source code, with no intermediary compilation step.        
+      
 # 3. What does sequence mean and which three types of data fall into this category?
      A sequence data type is a collection of objects ordered by a specific position. In Python, Strings, lists, and tuples are the data types 
      based on sequences. The Sequences share common sequence operations, such as indexing, concatenation, and slicing, but also have type-specific
      method calls..
+     
+# 4.  What are operators?
+      Operators are required to perform various operations on data. They are special symbols that are required to carry out arithmetic and logical
+      operations. The values on which the operator operates are called operands.  So, if we say 10/5=2
+         Here '/' is the operator that performs division and 10 and 5 are the operands. Python has the following operators defined for
+          various operations:
+
+                  Arithmetic Operators
+                  Relational Operators
+                  Logical/Boolean Operators
+                  Assignment Operators
+                  Bitwise Operators
+                  Membership Operators
+                  Identity Operators
+                  
+                  
